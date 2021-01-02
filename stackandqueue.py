@@ -23,5 +23,3 @@ print("Queue: ", queue)
 
 queue.pop()
 print("Queue: ", queue)
-
-
