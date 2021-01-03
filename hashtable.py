@@ -10,6 +10,7 @@ print(items2)
 
 # try access nonexistent key
 # print(items1["key6"])
+# Error
 
 #replace an item
 items2["key2"] = "two"
