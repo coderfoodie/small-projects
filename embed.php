@@ -5,7 +5,7 @@
         'description' => "a comedy sci-fi adventure originally based on a BBC radio series."
     ];
     $characters = [
-        'Arthur Bent',
+        'Arthur Dent',
         'Ford Prefect',
         'Zaphod Beeblebrox',
         'Marvin, The Paranoid Andriod',
